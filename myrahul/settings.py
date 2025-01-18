@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'main',
     'contact',
     'dummy',
+    'django_crontab',
 ]
 
 MIDDLEWARE = [
